@@ -1,0 +1,6 @@
+{
+  "name": "Vonigen",
+  "description": "Studio Engine untuk AI Voice Cloning - by Aniki. Frontend mobile-first bertenaga GPU OmniVoice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
